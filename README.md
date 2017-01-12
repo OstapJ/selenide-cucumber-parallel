@@ -10,7 +10,7 @@ Currently it shows why you DON'T want to run Cucumber tests in parallel: because
 To run Selenide+Cucumber tests, just type from command line:
 
 ```
-mvn test
+mvn verify
 ```
 
 ### How to add project to IDEA
