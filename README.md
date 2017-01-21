@@ -3,7 +3,7 @@ Selenide examples: Cucumber
 
 This is a sample project demonstrating how to use Selenide with Cucumber and Maven.
 
-*Currently it shows why you DON'T want to run Cucumber tests in parallel* : because you can't get a good HTML report.
+**Currently it shows why you DON'T want to run Cucumber tests in parallel** : because you can't get a good HTML report.
 
 ### How to run
 
